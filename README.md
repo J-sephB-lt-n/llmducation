@@ -76,7 +76,11 @@ Here is my (constantly evolving) reading list:
 | ❌ not started   | Looking Inward: Language Models Can Learn About Themselves by Introspection                    |       | 2024                   |                   | paper          | notes                                                                        | <https://arxiv.org/abs/2410.13787>                                                                            |
 | ✅❌templaterow  | title                                                                                          | ★★☆☆☆ | year                   | topic             | type           | notes                                                                        | links                                                                                                         |
 
-Efficient Few-Shot Learning Without Prompts
+Also to check out:
+
+- SmolLM2
+  
+- (paper) Efficient Few-Shot Learning Without Prompts
 
 LLM sampling techniques:
 
