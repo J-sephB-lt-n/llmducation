@@ -2,31 +2,11 @@
 
 Staying up to date with Large Language Models (no hype).
 
-I always wake up excited to learn new things in statistics, software and machine learning but I've had intermittent AI and Large Language Model (LLM) learning paralysis for a while now. Despite the fact that LLMs are one of the biggest technological innovations to have occurred in my lifetime, I've found myself a bit averse to exploring them and what they are capable of. Or, at least, relatively more averse to checking them out than I am to checking out interesting things in other domains.
-
-Having been on holiday this past week (October 2024) I've had some time to mull this over, and I think the primary reasons for this are:
-
-- That playing with SOTA models (on anything other than toy problems) requires hemorrhaging money (although this has become less true over time).
-
-- That it's difficult to separate objectivity from hype and people trying to sell things
-
-- The overuse of the culturally-overloaded term "AI" (and, even worse, "AGI")
-
-- The fear-mongering about everyone losing their jobs
-
-- The focus on frameworks (LangChain, LlamaIndex, Haystack, CrewAI, AutoGen, DSPy etc. etc.) over core knowledge
-
-  - also, the overlap and competition between these frameworks
-
-  - also, these frameworks being veiled adverts for their own enterprise/cloud products
-
-  - also, the fact that these frameworks' innovation outpaces their documentation
-
-So, here is my plan for getting excited about LLMs:
+This is my plan for staying excited about large language models:
 
 1. Stop worrying about missing the latest trendy framework.
 
-2. Make a reading list which covers all of the important LLM innovations (both academia and industry) and work through this list. I want the list to contain both papers (academia) and commentary on (successful) practical applications of LLMs.
+2. Make a reading list which covers all of the important LLM innovations (both academia and industry) and work through the list. I want the list to contain both papers (academia) and commentary on (successful) practical applications of LLMs.
 
 3. Subscribe to email newsletters, LinkedIn, YouTube and Twitter accounts of significant LLM innovators and commentators (avoiding sources focusing on hype and speculation).
 
@@ -40,6 +20,7 @@ Here is my (constantly evolving) reading list:
 | ✅ read          | A survey on large language model based autonomous agents                                       | ★★★★★ | 2024                   |                   | paper          |                                                                              | <https://link.springer.com/article/10.1007/s11704-024-40231-1>                                                |
 | ✅ read          | Reflexion: Language Agents with Verbal Reinforcement Learning                                  | ★★★★★ | 2023                   | LLM Agents        | paper          | Simple but very powerful concept                                             | <https://arxiv.org/abs/2303.11366>                                                                            |
 | ❌ not started   | Cognitive Architectures for Language Agents                                                    |       | 2023                   | LLM Agents        | paper          | notes                                                                        | <https://arxiv.org/abs/2309.02427>                                                                            |
+| ❌ not started   | Understanding Multimodal LLMs                                                    |       | 2024                   | Multi-Modal LLMs        | blog          | notes                                                                        | https://www.linkedin.com/pulse/understanding-multimodal-llms-sebastian-raschka-phd-t7h5c                                                                            |
 | ❌ not started   | Large Language Models Understand and Can Be Enhanced by Emotional Stimuli                      |       | 2023                   | LLM Prompting     | paper          |                                                                              |                                                                                                               |
 | ❌ not started   | The Llama 3 Herd of Models                                                                     |       | 2024                   | Foundation models | paper          |                                                                              |                                                                                                               |
 | ◐ partially read | Build a Large Language Model (from scratch)                                                    | ★★★★★ |                        | LLM Architecture  | book           | If I could read only 1 thing, this would be it                               |                                                                                                               |
