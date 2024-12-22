@@ -4,7 +4,7 @@ Staying up to date with Large Language Models (no hype).
 
 This is my plan for staying excited about large language models:
 
-1. Stop worrying about missing the latest trendy framework.
+1. Stop worrying about missing the latest trendy python framework.
 
 2. Make a reading list which covers all of the important LLM innovations (both academia and industry) and work through the list. I want the list to contain both papers (academia) and commentary on (successful) practical applications of LLMs.
 
@@ -66,6 +66,7 @@ Here is my (constantly evolving) reading list:
 
 Also to check out:
 
+- https://magazine.sebastianraschka.com/p/llm-research-papers-the-2024-list
 - SmolLM2
 - (paper) Efficient Few-Shot Learning Without Prompts
 
