@@ -105,7 +105,8 @@ Interesting projects:
 
 | Project Name | Description | Link(s)                                |
 | ------------ | ----------- | -------------------------------------- |
-| optillm      |             | <<https://github.com/codelion/optillm> |
+| optillm      |             | https://github.com/codelion/optillm |
+| NuExtract             |             | https://huggingface.co/numind/NuExtract-1.5 |
 
 References and Resources:
 
